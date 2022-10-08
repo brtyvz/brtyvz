@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m student at Süleyman Demirel University
 - 📫 How to reach me: beratttyavuzz@gmail.com
 
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)
+
